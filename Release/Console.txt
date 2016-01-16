@@ -1,0 +1,14 @@
+The Cost from original records : 171.163
+The Cost from Brutally Optimized Records : 127.007
+The Time Score from optimized records : 1
+
+The Cost from Globally Optimized Records : 142.4
+The Time Score from optimized records : 1
+
+The Cost from Random original records : 390270
+The Cost from Brutally Optimized Random Records : 300180
+The Time Score from optimized records : 1
+Time for optimization  : 94
+The Cost from Globally Optimized Random Records : 334133
+The Time Score from optimized records : 1
+Time for optimization : 544724
